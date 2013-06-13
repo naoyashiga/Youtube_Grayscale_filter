@@ -1,0 +1,20 @@
+{
+	"name":"Youtube Grayscale Filter",
+	"version":"0.1",
+	"manifest_version":2,
+
+	"description":"動画にフィルターを加えて、モノクロなどにできるよ",
+
+	"permissions":[
+		"tabs","http://*/*"
+	],
+
+	"background":{
+		"scripts":["jquery.js","background.js"]
+	},
+
+	"page_action":{
+		"default_icon":"icon19.png",
+		"default_title":"Youtube Color Filter"
+	}
+}
