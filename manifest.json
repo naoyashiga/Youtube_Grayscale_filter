@@ -3,7 +3,7 @@
 	"version":"0.1",
 	"manifest_version":2,
 
-	"description":"動画にフィルターを加えて、モノクロなどにできるよ",
+	"description":"動画にフィルターを加えて、動画をモノクロにできるよ",
 
 	"permissions":[
 		"tabs","http://*/*"
