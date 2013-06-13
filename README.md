@@ -19,4 +19,4 @@ jQueryを使ってCSSフィルターを設定しています。　　
 
 3.「パッケージ化されていない拡張機能を読み込む」というボタンを押して、解凍したフォルダを選択してください  
 
-![ScreenShot](https://raw.github.com/naoyashiga/Chrome_Extensions/master/Google_Calendar_From_Rikunavi/screenshots/install.png)
+![ScreenShot](https://raw.github.com/naoyashiga/Google_Calendar_From_Rikunavi/master/screenshots/install.png)
